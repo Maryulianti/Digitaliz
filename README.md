@@ -9,32 +9,32 @@ Pada saat melakukan koneksi pada database pastikan username dan password sudah b
 ![isi database](https://user-images.githubusercontent.com/99313361/179356658-153c33c2-afef-4017-8c16-3f10ed72f16e.JPG)
 
 # Halaman Beranda
-![Data](https://user-images.githubusercontent.com/99313361/179355481-abef5578-a55d-44c0-963d-417d558585dd.JPG)
+![beranda](https://user-images.githubusercontent.com/99313361/179357806-0e1a4778-f666-4074-938c-621fb36cdb02.JPG)
 
 # Fitur Filter
-Menggunakan Kolom client sebagai filter
-![filter](https://user-images.githubusercontent.com/99313361/179355808-c98eb9f5-b8fe-4239-95d1-8a06c6c94e28.JPG)
 Menggunakan Kolom Project Leader sebagai filter
-![filter nama](https://user-images.githubusercontent.com/99313361/179356452-eac42c4a-48d6-4bed-9986-2ccd8ccda6ee.JPG)
+![project name filter](https://user-images.githubusercontent.com/99313361/179357803-ef98318f-43a0-465c-bbce-5e1885005bbf.JPG)
+Menggunakan Kolom Client sebagai filter
+![client filter](https://user-images.githubusercontent.com/99313361/179357802-ac53b96c-5206-4dfc-97ba-31af197924af.JPG)
 
 # Fitur Pagination
 Page 1
-![page1](https://user-images.githubusercontent.com/99313361/179356294-ed4aa1ee-b48c-41d6-9681-5ad80905be1e.JPG)
+![page1](https://user-images.githubusercontent.com/99313361/179357903-aaeb1ae2-a1e8-4ed2-8aa6-aff3b072d05d.JPG)
 Page 2
-![pagination](https://user-images.githubusercontent.com/99313361/179355841-58b893fd-5b97-46c1-8fa2-85868f109ad0.JPG)
+![page2](https://user-images.githubusercontent.com/99313361/179357899-66f4db08-8079-473f-988d-9d4ec1069f11.JPG)
 
 # Tambah Data
 Klik Tombol Create maka akan beralih ke halaman create.php, kemudian isi form nya
-![tambah](https://user-images.githubusercontent.com/99313361/179355973-c77500cc-7c2f-435c-a1ac-81f4a518bff5.JPG)
+![create](https://user-images.githubusercontent.com/99313361/179357800-6dc65c12-2a0b-4ec9-844d-d57428075ea8.JPG)
 
 HASIL
-![hasil](https://user-images.githubusercontent.com/99313361/179356003-b36556b4-37f1-4c8c-8ce9-ca3a091ee3e3.JPG)
+![hasil](https://user-images.githubusercontent.com/99313361/179357797-07f881be-e36b-4a4e-88a8-2f4acc4b0794.JPG)
 
 # Edit Data
 Pada tahap ini belum bisa berhasil
 
 # Delete Data
 Saat menekan tombol delete disalah satu data maka data secara otomatis terhapus
-![hapus](https://user-images.githubusercontent.com/99313361/179356093-168d7013-08a9-46e3-9fbe-4b1b45918b9e.JPG)
+![hapus](https://user-images.githubusercontent.com/99313361/179357793-318deb6b-b3f3-40d7-b5ff-864aae01bc68.JPG)
 
 
