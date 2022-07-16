@@ -1,5 +1,12 @@
 # Digitaliz
 Project Monitoring
+#informasi tambahab
+1. Nama database: Digitaliz
+2. Nama Table: Monitoring
+Pada saat melakukan koneksi pada database pastikan username dan password sudah benar
+
+# databaset
+![isi database](https://user-images.githubusercontent.com/99313361/179356658-153c33c2-afef-4017-8c16-3f10ed72f16e.JPG)
 
 # Halaman Beranda
 ![Data](https://user-images.githubusercontent.com/99313361/179355481-abef5578-a55d-44c0-963d-417d558585dd.JPG)
