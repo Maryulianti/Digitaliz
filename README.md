@@ -8,6 +8,9 @@ Project Monitoring
 ![filter](https://user-images.githubusercontent.com/99313361/179355808-c98eb9f5-b8fe-4239-95d1-8a06c6c94e28.JPG)
 
 # Fitur Pagination
+Page 1
+![page1](https://user-images.githubusercontent.com/99313361/179356294-ed4aa1ee-b48c-41d6-9681-5ad80905be1e.JPG)
+Page 2
 ![pagination](https://user-images.githubusercontent.com/99313361/179355841-58b893fd-5b97-46c1-8fa2-85868f109ad0.JPG)
 
 # Tambah Data
