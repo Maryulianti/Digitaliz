@@ -5,7 +5,10 @@ Project Monitoring
 ![Data](https://user-images.githubusercontent.com/99313361/179355481-abef5578-a55d-44c0-963d-417d558585dd.JPG)
 
 # Fitur Filter
+Menggunakan Kolom client sebagai filter
 ![filter](https://user-images.githubusercontent.com/99313361/179355808-c98eb9f5-b8fe-4239-95d1-8a06c6c94e28.JPG)
+Menggunakan Kolom Project Leader sebagai filter
+![filter nama](https://user-images.githubusercontent.com/99313361/179356452-eac42c4a-48d6-4bed-9986-2ccd8ccda6ee.JPG)
 
 # Fitur Pagination
 Page 1
