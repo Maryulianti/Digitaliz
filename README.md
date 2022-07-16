@@ -16,6 +16,7 @@ Page 2
 # Tambah Data
 Klik Tombol Create maka akan beralih ke halaman create.php, kemudian isi form nya
 ![tambah](https://user-images.githubusercontent.com/99313361/179355973-c77500cc-7c2f-435c-a1ac-81f4a518bff5.JPG)
+
 HASIL
 ![hasil](https://user-images.githubusercontent.com/99313361/179356003-b36556b4-37f1-4c8c-8ce9-ca3a091ee3e3.JPG)
 
